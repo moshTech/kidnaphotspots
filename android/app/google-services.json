@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423691610904",
+    "firebase_url": "https://kidnaphotspots-1579886401651.firebaseio.com",
+    "project_id": "kidnaphotspots-1579886401651",
+    "storage_bucket": "kidnaphotspots-1579886401651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423691610904:android:bfc024f849c2a2c4cccc6d",
+        "android_client_info": {
+          "package_name": "com.example.kidnaphotspots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423691610904-5a1sd6p93gacu87o4aq9nlterhkn9jen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kidnaphotspots",
+            "certificate_hash": "5c50ae294c2adb7c4e0f45499e3b1061cef685d2"
+          }
+        },
+        {
+          "client_id": "423691610904-di9h49bh79q38a13jq1o4taci6vtfefq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbAdBEv2xCAnDW86d6CnP8ebX1MBMc1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423691610904-di9h49bh79q38a13jq1o4taci6vtfefq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
