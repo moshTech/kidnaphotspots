@@ -57,6 +57,7 @@ class _MyAppState extends State<MyApp> {
                 //   return 'Please enter principal amount';
                 // },
                 decoration: InputDecoration(
+                  helperText: 'Test',
                   labelText: 'Principal',
                   hintText: 'Please enter the principal amount (e.g 1000)',
                   border: OutlineInputBorder(
